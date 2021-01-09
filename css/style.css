@@ -40,7 +40,7 @@
 .nav-content {
     display: flex;
     justify-content: space-between;
-    max-width: 300px;
+    /* max-width: 300px; */
     padding-top: .9em;
     text-transform: uppercase;
 }
